@@ -1,4 +1,4 @@
-.git/*
-*.json
-lib/*
+/Gruntfile.js
+/.git/*
 *.backup
+/public/*
